@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: green;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+span {
+    color: rgb(255, 81, 0);
+}
+
+strong {
+    color: rgb(0, 0, 255);
+}
+
+span strong {
+    color:gray;
+}
+
+a:active {
+    color: orange;
+}
+
+a:link {
+    color: rgb(147, 147, 214);
+}
+
+a:visited {
+    color: rgb(56, 6, 237);
+}
+a:hover {
+    color: green;
+}
